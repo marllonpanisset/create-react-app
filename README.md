@@ -1,4 +1,4 @@
-# React Create App
+# Create React App
 Maquina Vagrant basica para iniciar projeto com React.
 
 ### Oque tem?
